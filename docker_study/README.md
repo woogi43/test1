@@ -16,10 +16,7 @@ CONTAINER ID        IMAGE                COMMAND             CREATED            
 fc199e02d300        nowage/ubuntu:test   "/bin/bash"         41 seconds ago      Up 40 seconds                           u1
 ```
 
-To test, ("nowage" is username. )
-```
-	tree
-```
+
 To Rollback
 ```
     docker rm u1 -f
