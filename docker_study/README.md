@@ -23,5 +23,5 @@ To test, ("nowage" is username. )
 To Rollback
 ```
     docker rm u1 -f
-    docker rmi nowage/ubuntu:test
+    docker rmi woogi43/ubuntu:test
 ```
